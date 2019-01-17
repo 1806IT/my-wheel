@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/1806IT/my-wheel/issues"
   },
-  "homepage": "https://github.com/1806IT/my-wheel#readme"
+  "homepage": "https://github.com/1806IT/my-wheel#readme",
+  "dependencies": {
+    "vue": "^2.5.22"
+  }
 }
